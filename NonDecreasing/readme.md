@@ -10,3 +10,7 @@ Implement a function that, given a sequence of numbers such as:
 
 
     [ [3,6,61],[6,7,9],[1,7,7],[2,7,7],[2,388],[3,72],[7] ]
+    
+### Tests
+
+Included in this package is PHPUnit and PHPSpec, you may choose any of the two.
