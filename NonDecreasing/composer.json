@@ -2,7 +2,9 @@
     "require-dev": {
         "phpspec/phpspec": "~2.0",
         "phpunit/phpunit": "~4.0",
-        "mockery/mockery": "0.9.*"
+        "mockery/mockery": "0.9.*",
+        "illuminate/support": "5.0.28",
+        "symfony/var-dumper": "2.6.*"
     },
     "config": {
         "bin-dir": "bin"
