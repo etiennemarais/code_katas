@@ -1,0 +1,6 @@
+suites:
+    Katas:
+        namespace: Katas
+        psr4_prefix: Katas
+        src_path: src/Katas
+        spec_path: tests/Katas
